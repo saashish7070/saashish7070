@@ -39,5 +39,6 @@ I look forward to hearing from you and
 ![Example Image](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
 ![Example Image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react)
 ![Example Image](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
