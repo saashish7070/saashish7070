@@ -16,6 +16,7 @@ Here are some of the key technical skills that I possess:
 - Databases:  MongoDB.
 - Version Control: Git, GitHub.
 - DevOps: Docker, AWS, Heroku, Netlify.
+- BaaS: Firebase
 ~~Testing: Jest, Mocha, Chai, Selenium.~~
 - Other Tools: Visual Studio Code, npm, Yarn.
 
@@ -41,5 +42,6 @@ I look forward to hearing from you and
 ![Example Image](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 
 
