@@ -36,5 +36,8 @@ I look forward to hearing from you and
 
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
 ![Example Image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Example Image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Example Image](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![Example Image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react)
+![Example Image](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+
 
