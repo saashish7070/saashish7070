@@ -15,6 +15,7 @@ Here are some of the key technical skills that I possess:
 - Back-end: Node.js, Express.js.
 - Databases:  MongoDB.
 - Version Control: Git, GitHub.
+- Authentication and Authorization : JWT and Firebase
 - DevOps: Docker, AWS, Heroku, Netlify.
 - BaaS: Firebase
 ~~Testing: Jest, Mocha, Chai, Selenium.~~
@@ -43,5 +44,5 @@ I look forward to hearing from you and
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-
+![](https://jwt.io/img/badge.svg)
 
