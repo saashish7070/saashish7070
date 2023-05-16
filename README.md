@@ -23,11 +23,11 @@ Please note that this list is not exhaustive, and I'm always eager to learn new 
 
 I'm always excited to connect with fellow developers, clients, or potential collaborators. Feel free to reach out to me using the following contact information:
 
-**Email: saashish1746@gmail.com
+**Email: saashish1746@gmail.com**
 
-LinkedIn: https://www.linkedin.com/in/aashish-shrestha-99a674209/
+**LinkedIn: https://www.linkedin.com/in/aashish-shrestha-99a674209/**
 
-~~Personal Website/Blog: soon comming~~**
+~~Personal Website/Blog: soon comming~~
 
 I look forward to hearing from you and
 
