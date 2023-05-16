@@ -24,13 +24,15 @@ Please note that this list is not exhaustive, and I'm always eager to learn new 
 I'm always excited to connect with fellow developers, clients, or potential collaborators. Feel free to reach out to me using the following contact information:
 
 **Email: saashish1746@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aashish-shrestha-99a674209/
+
 ~~Personal Website/Blog: soon comming~~**
 
 I look forward to hearing from you and
 
 
-### Tech Stack 
+### Tech Knowledge
 
 ![Example Image](https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 ![Example Image](https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465)
