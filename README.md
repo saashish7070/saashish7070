@@ -29,7 +29,7 @@ I'm always excited to connect with fellow developers, clients, or potential coll
 
 **LinkedIn: https://www.linkedin.com/in/aashish-shrestha-99a674209/**
 
-~~Personal Website/Blog: soon comming~~
+Personal Website/Blog: soon coming
 
 I look forward to hearing from you and
 
