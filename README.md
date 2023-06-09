@@ -19,7 +19,7 @@ Here are some of the key technical skills that I possess:
 - DevOps: Docker, AWS, Heroku, Netlify.
 - BaaS: Firebase
 - Mobile App Development: Flutter
-~~Testing: Jest, Mocha, Chai, Selenium.~~
+- ~~Testing: Jest, Mocha, Chai, Selenium.~~
 - Other Tools: Visual Studio Code, npm, Yarn.
 - Other Stack: Lua
 
