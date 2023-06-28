@@ -48,4 +48,5 @@ I look forward to hearing from you and
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![](https://img.shields.io/badge/Lua-orange?style=for-the-badge&logo=lua)
 
