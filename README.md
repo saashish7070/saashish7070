@@ -21,7 +21,7 @@ Here are some of the key technical skills that I possess:
 - Mobile App Development: Flutter
 - ~~Testing: Jest, Mocha, Chai, Selenium.~~
 - Other Tools: Visual Studio Code, npm, Yarn.
-- Other Stack: Lua
+- Other Stack: Lua, Shell Script
 
 Please note that this list is not exhaustive, and I'm always eager to learn new technologies and expand my skill set.
 
@@ -42,6 +42,7 @@ I look forward to hearing from you and
 ![Example Image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Example Image](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
 ![Example Image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 ![Example Image](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
