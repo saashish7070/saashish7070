@@ -18,7 +18,7 @@ Here are some of the key technical skills that I possess:
 - Authentication and Authorization : JWT and Firebase
 - DevOps: Docker, AWS, Heroku, Netlify.
 - BaaS: Firebase
-- Mobile App Development: Flutter
+- Mobile App Development: React Native
 - ~~Testing: Jest, Mocha, Chai, Selenium.~~
 - Other Tools: Visual Studio Code, npm, Yarn.
 - Other Stack: Lua, Shell Script
