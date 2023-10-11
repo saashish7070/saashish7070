@@ -14,6 +14,7 @@ Here are some of the key technical skills that I possess:
 - Front-end: HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, MUI.
 - Back-end: Node.js, Express.js.
 - Databases:  MongoDB.
+- Programming Languages - C,C++,Python,Javascript,TypeScript,C#
 - Version Control: Git, GitHub.
 - Authentication and Authorization : JWT and Firebase
 - DevOps: Docker, AWS, Heroku, Netlify.
