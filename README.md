@@ -14,15 +14,17 @@ Here are some of the key technical skills that I possess:
 - Front-end: HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, MUI.
 - Back-end: Node.js, Express.js.
 - Databases:  MongoDB.
+- Designing- Figma
 - Programming Languages - C,C++,Python,Javascript,TypeScript,C#
 - Version Control: Git, GitHub.
+-  Digital Marketing - SEO
 - Authentication and Authorization : JWT and Firebase
 - DevOps: Docker, AWS, Heroku, Netlify.
 - BaaS: Firebase
 - Mobile App Development: React Native
 - ~~Testing: Jest, Mocha, Chai, Selenium.~~
 - Other Tools: Visual Studio Code, npm, Yarn.
-- Other Stack: Lua, Shell Script
+- Other Stack: Lua, Shell Script(Only Concept)
 
 Please note that this list is not exhaustive, and I'm always eager to learn new technologies and expand my skill set.
 
