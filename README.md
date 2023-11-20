@@ -19,12 +19,11 @@ Here are some of the key technical skills that I possess:
 - Version Control: Git, GitHub.
 -  Digital Marketing - SEO
 - Authentication and Authorization : JWT and Firebase
-- DevOps: Docker, AWS, Heroku, Netlify.
+- Devops: AWS, Azure, Docker , Kubernetes,Jenkins, Ansible 
 - BaaS: Firebase
 - Mobile App Development: React Native
-- ~~Testing: Jest, Mocha, Chai, Selenium.~~
 - Other Tools: Visual Studio Code, npm, Yarn.
-- Other Stack: Lua, Shell Script(Only Concept)
+- Other Stack: Json,Yaml
 
 Please note that this list is not exhaustive, and I'm always eager to learn new technologies and expand my skill set.
 
@@ -51,5 +50,5 @@ I look forward to hearing from you and
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![](https://img.shields.io/badge/Lua-orange?style=for-the-badge&logo=lua)
+![Example Image](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
