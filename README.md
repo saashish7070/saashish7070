@@ -41,14 +41,15 @@ I look forward to hearing from you and
 ### Tech Knowledge
 
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
-![Example Image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Example Image](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
-![Example Image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
-![Example Image](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+![](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Example Image](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
 
