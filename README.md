@@ -48,11 +48,11 @@ I look forward to hearing from you and
 ![](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Firebase-blacke?style=for-the-badge&logo=firebase)
+![](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
-![](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=aws)
-![](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=azure)
+![](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+![](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)
 
 
