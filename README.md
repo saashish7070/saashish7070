@@ -23,6 +23,7 @@ Here are some of the key technical skills that I possess:
 - BaaS: Firebase
 - Mobile App Development: React Native
 - Other Tools: Visual Studio Code, npm, Yarn.
+- Scripting - Bash,sh
 - Other Stack: Json,Yaml
 
 Please note that this list is not exhaustive, and I'm always eager to learn new technologies and expand my skill set.
