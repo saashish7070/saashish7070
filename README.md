@@ -11,6 +11,7 @@ Hello and welcome! I'm thrilled that you're taking the time to read my personal 
 
 Here are some of the key technical skills that I possess:
 
+- Mobile App Development: Flutter, React Native
 - Front-end: HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, MUI.
 - Back-end: Node.js, Express.js.
 - Databases:  MongoDB.
@@ -21,7 +22,6 @@ Here are some of the key technical skills that I possess:
 - Authentication and Authorization : JWT and Firebase
 - Devops: AWS, Azure, Docker , Kubernetes,Jenkins, Ansible 
 - BaaS: Firebase
-- Mobile App Development: React Native
 - Other Tools: Visual Studio Code, npm, Yarn.
 - Scripting - Bash,sh
 - Other Stack: Json,Yaml
